@@ -7,7 +7,9 @@ This repository is dedicated to demonstrating my data analysis skills and my abi
 Project list :
 
 Project 1: Employee Salary Data analysis:
+
 Project 2 : Image conversion
+
 Project 3 : IPL Data analysis
 
 Skills and Tools
